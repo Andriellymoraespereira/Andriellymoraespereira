@@ -9,7 +9,7 @@
 <div align="center">
   <a href="https://github.com/Andriellymoraespereira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andriellymoraespeira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andriellymoraespereira&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/](https://github-readme-stats.vercel.app/api)?username=Andriellymoraespereira&&show_icons=true&theme=radical"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Dri-ApacheSpark." height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg">
@@ -18,7 +18,6 @@
   <img align="center" alt="Dri-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
    <img align="center" alt="Dri-RStudio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg">
   <img align="center" alt="Dri-Azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
-  
   
   ##
   
