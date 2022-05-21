@@ -26,8 +26,9 @@
     <a href="https://www.kaggle.com/andrielly/" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank"></a> 
  <a href="https://developer.twitter.com/en/portal/projects/1521565631451222021/apps/" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
     
-    ![Isso é uma imagem](https://www.jing.fm/clipimg/detail/48-489176_medusa-clipart-transparent-medusa-transparent.png)
-     ![Snake animation](https://github.com/andriellymoraespereira/andriellymoraespereira/blob/output/github-contribution-grid-snake.svg)
+    
 </div>
   
+  ![Isso é uma imagem](https://www.jing.fm/clipimg/detail/48-489176_medusa-clipart-transparent-medusa-transparent.png)
+    ![Snake animation](https://github.com/andriellymoraespereira/andriellymoraespereira/blob/output/github-contribution-grid-snake.svg)
 
