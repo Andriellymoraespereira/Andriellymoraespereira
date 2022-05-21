@@ -28,7 +28,7 @@
     
     
 </div>
-  <a href="https://www.jing.fm/clipimg/detail/48-489176_medusa-clipart-transparent-medusa-transparent.png&logoColor=white" target="_blank"></a>
- ![Isso é uma imagem](https://www.jing.fm/clipimg/detail/48-489176_medusa-clipart-transparent-medusa-transparent.png)
+  
+ ![Isso é uma imagem](https://www.jing.fm/clipimg/detail/48-489176_medusa-clipart-transparent-medusa-transparent.png&logoColor=white" target="_blank"></a>)
   ![Snake animation](https://github.com/andriellymoraespereira/andriellymoraespereira/blob/output/github-contribution-grid-snake.svg)
 
