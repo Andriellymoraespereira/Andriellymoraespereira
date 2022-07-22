@@ -17,6 +17,8 @@
    <img align="center" alt="Dri-RStudio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg">
   <img align="center" alt="Dri-Azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
  <img align="center" alt="Dri-Julia" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/julia/julia-original.svg">
+ <img align="center" alt="Dri-GO" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/GO/GO-original.svg">
+ <img align="center" alt="Dri-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/JavaScript/JavaScript-original.svg">
  
   ##
   
