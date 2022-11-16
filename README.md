@@ -2,7 +2,7 @@
 
 
 - 🌱 Bacharela em Estatística
-- Cusando Formação em ciência de Dados - Data Science Academy
+- Formação em ciência de Dados - Data Science Academy (Em andamento)
 
 
 
