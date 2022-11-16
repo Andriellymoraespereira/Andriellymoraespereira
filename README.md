@@ -1,7 +1,7 @@
-**Olá! Eu sou a Andrielly**
+**Olá! Eu sou a Andrielly Moraes**
 
 
-- 🌱 Bacharela em Estatística
+- 🌱 Bacharela em Estatística - UFPA
 - Formação em ciência de Dados - Data Science Academy (Em andamento)
 
 
