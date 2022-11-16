@@ -1,9 +1,9 @@
 **Olá! Eu sou a Andrielly**
 
 
-- 🔭 Atualmente trabalho com ciência de dados
-- 🌱 Bacharelado em Estatística
-- 👯 Estudando algoritmo de machine learning
+- 🌱 Bacharela em Estatística
+- Cusando Formação em ciência de Dados - Data Science Academy
+
 
 
 <div align="center">
