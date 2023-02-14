@@ -1,0 +1,34 @@
+image: assets/img/andrielly.jpg
+username: Andrielly Moraes Pereira
+description: Analista de causas-raizes de problemas e manipulação de números e informações.
+webpage: https://andriellymoraespereira.github.io
+experience: # Remove for hiding the experience section
+  - start: 01-12-2022
+    end: 30-03-2023
+    experience : KaggleX- BIPOC Mentorship Program
+# interests: # Remove for hiding the interests section
+  #- Interest 1
+  #- Interest 2
+skills: # Remove for hiding the skills section
+  - skill: Python, rStudio & github
+    value: 85  # Percent value
+social:
+  email:  andrielly.moraespereira@gmail.com
+  orcid: 
+  scholar: 
+  publons: 
+  research_gate: 
+  dblp:  # Full URL
+  semantic_scholar:  # Full URL
+  linkedin:  https://www.linkedin.com/in/andriellymoraespereira/ 
+  github: andriellymoraespereira
+  gitlab: 
+  bitbucket:
+  google_plus:
+  mastodon: 
+  twitter: Andrielly Moraes
+  youtube:
+  facebook:
+  instagram:
+#awards: # Remove for hiding the awards section
+ # - "This is an award I got"
