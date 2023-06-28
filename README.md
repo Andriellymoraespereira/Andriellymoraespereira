@@ -4,7 +4,7 @@
 - 🌱 Bacharela em Estatística - UFPA
 - Formação em ciência de Dados - Data Science Academy (Em andamento)
 
-![My_octocat]
+![image1!](My_octocat.png)
 
 
 <div style="display: inline_block"><br>
