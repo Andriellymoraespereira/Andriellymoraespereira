@@ -1,10 +1,19 @@
-**Olá! Eu sou a Andrielly Moraes**
+<img align="center" width="" src="imag/octoredme.jpg"></a>
+       
+</h1>
+
+<h2 id="content"> </h2>
+
+<p>Hi, I'm Andrielly, 
+
+Sou analista de Dados com bacharelado em estatística e formação em Data Science. Sou apaixonada por tudo relacionado a análise de dados.</p>
 
 
-- 🌱 Bacharela em Estatística - UFPA
-- Formação em ciência de Dados - Data Science Academy (Em andamento)
 
-![image1!](My_octocat.png)
+## Hard skills
+
+Ao longo do tempo pode conhecer e trabalhar com diversas ferramentas, mas confesso que Python é o meu queridinho.
+
 
 
 <div style="display: inline_block"><br>
@@ -19,6 +28,8 @@
  <img align="center" alt="Dri-javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
  
   ##
+
+  **Sinta-se livre para conecta-se comigo em minhas redes sociais**
   
   <div> 
 
