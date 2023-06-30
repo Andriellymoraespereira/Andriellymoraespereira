@@ -1,12 +1,9 @@
-<img align="center" width="" src="imag/octoredme.jpg"></a>
+![image!](imag/octoredme.jpg)
        
-</h1>
 
-<h2 id="content"> </h2>
+***Hi, I'm Andrielly*** 
 
-<p>Hi, I'm Andrielly, 
-
-Sou analista de Dados com bacharelado em estatística e formação em Data Science. Sou apaixonada por tudo relacionado a análise de dados.</p>
+Sou analista de Dados com bacharelado em estatística e formação em Data Science. Sou apaixonada por tudo relacionado a análise de dados.
 
 
 
