@@ -2,7 +2,8 @@
 
 Sou analista de dados com bacharelado em Estatística e formação em Data Science. Sou apaixonada por tudo relacionado a análise de dados, com especialização em análise de dados de e-commerce. Minha abordagem única combina uma sólida formação acadêmica com habilidades práticas em Python e uma visão estratégica para resolver problemas de negócios.
 
-<img align="center" width="150" src="https://via.placeholder.com/150" alt="Andrielly's Photo"> <!-- Substitua com o link da sua foto -->
+<img align="center" width="150" src="https://github.com/andriellymoraespereira/andriellymoraespereira/blob/main/foto.png" alt="Andrielly's Photo">
+
 
 ## Hard Skills 🚀
 
