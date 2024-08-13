@@ -1,46 +1,59 @@
-# Olá, sou Andrielly de Moraes Pereira 👋
+<h1 align="center">Olá, sou Andrielly!</h1>
+<p align="center">
+  <img align="center" width="150" src="https://via.placeholder.com/150" alt="Andrielly's Photo">
+</p>
 
-Sou analista de dados com bacharelado em Estatística e formação em Data Science. Sou apaixonada por tudo relacionado a análise de dados, com especialização em análise de dados de e-commerce. Minha abordagem única combina uma sólida formação acadêmica com habilidades práticas em Python e uma visão estratégica para resolver problemas de negócios.
+<p align="center">
+  Sou Analista de Dados com bacharelado em Estatística e formação em Data Science. Sou apaixonada por tudo relacionado à análise de dados e estou sempre em busca de soluções inovadoras para otimizar estratégias de marketing e melhorar a experiência do cliente em e-commerce.
+</p>
 
-<img align="center" width="150" src="https://github.com/andriellymoraespereira/andriellymoraespereira/blob/main/foto.png" alt="Andrielly's Photo">
+## Hard Skills
 
+Durante minha jornada profissional, tive a oportunidade de trabalhar com diversas ferramentas, e Python é a minha favorita. Aqui estão algumas das tecnologias que domino:
 
-## Hard Skills 🚀
-
-Tenho experiência com diversas ferramentas e tecnologias. Abaixo estão algumas das minhas principais habilidades e ferramentas que utilizo com frequência:
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="RStudio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg">
-  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="Apache Spark" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg">
-  <img align="center" alt="Azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
-  <img align="center" alt="Julia" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/julia/julia-original.svg">
-  <img align="center" alt="Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+<div style="display: inline_block">
+  <img align="center" alt="Dri-ApacheSpark" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg">
+  <img align="center" alt="Dri-MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="Dri-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Dri-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Dri-RStudio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg">
+  <img align="center" alt="Dri-Azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
+  <img align="center" alt="Dri-Julia" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/julia/julia-original.svg">
+  <img align="center" alt="Dri-Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
+  <img align="center" alt="Dri-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 </div>
 
-## Projetos Destacados 🌟
+## Projetos
 
-- **Análise de Tendências nas Vendas**: Utiliza técnicas avançadas de análise de dados para identificar e interpretar tendências nas vendas de um e-commerce. O objetivo é oferecer insights sobre padrões de compra, sazonalidades e tendências emergentes.
+Confira alguns dos projetos que desenvolvi e as soluções que ofereci:
 
-- **Segmentação de Clientes**: Aplicação de técnicas de segmentação para entender o comportamento dos clientes com base no valor e número de compras, ajudando empresas a personalizar suas estratégias de marketing.
+- **[Análise de Tendências nas Vendas](https://github.com/andriellymoraespereira/your-repository)**: Identifiquei e interpretei tendências nas vendas de e-commerce, aplicando técnicas de análise exploratória e visualização de dados para otimizar estratégias de marketing.
 
-- **KPIs**: Desenvolvimento e monitoramento de KPIs para avaliar o desempenho de estratégias e operações de e-commerce, fornecendo uma visão clara sobre a eficácia das ações realizadas.
+- **[Segmentação de Clientes](https://github.com/andriellymoraespereira/your-repository)**: Utilizei técnicas avançadas para segmentar clientes com base em valor e número de compras, ajudando empresas a personalizar suas estratégias de marketing.
 
-- **Melhoria da Experiência do Cliente**: Utilização de técnicas de regressão para identificar áreas de melhoria na experiência do cliente e otimizar as interações com o e-commerce.
+- **[KPIs e Melhoria da Experiência do Cliente](https://github.com/andriellymoraespereira/your-repository)**: Criei indicadores-chave de desempenho e usei regressão para melhorar a experiência do cliente em e-commerce.
 
-## Conecte-se Comigo 🌐
+## Conecte-se Comigo
 
-Sinta-se à vontade para me contatar ou seguir minhas atualizações nas redes sociais:
+Sinta-se à vontade para se conectar comigo através das redes sociais:
 
-<a href="mailto:andrielly.moraespereira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-<a href="https://www.linkedin.com/in/andrielly-moraes-dados/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://www.kaggle.com/andrielly/" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" /></a>
-<a href="https://www.instagram.com/andriellydemoraespereira/?hl=en" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<div>
+  <a href="mailto:andrielly.moraespereira@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/andrielly-de-moraes-pereira-4408391b9/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.kaggle.com/andrielly/" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle">
+  </a>
+  <a href="https://developer.twitter.com/en/portal/projects/1521565631451222021/apps/" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="https://www.instagram.com/andriellydemoraespereira/?hl=en" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</div>
 
-## Animação de Contribuição 🐍
-
-![Snake animation](https://github.com/andriellymoraespereira/andriellymoraespereira/blob/output/github-contribution-grid-snake.svg)
+![GitHub Contributions](https://github.com/andriellymoraespereira/andriellymoraespereira/blob/output/github-contribution-grid-snake.svg)
 
