@@ -1,7 +1,5 @@
 <h1 align="center">Olá, sou Andrielly!</h1>
-<p align="center">
-  <img align="center" width="150" src="https://github.com/andriellymoraespereira/andriellymoraespereira/raw/main/foto.png" alt="Andrielly's Photo">
-</p>
+
 
 <p align="center">
   Sou Analista de Dados com bacharelado em Estatística e formação em Data Science. Sou apaixonada por tudo relacionado à análise de dados e estou sempre em busca de soluções inovadoras para otimizar estratégias de marketing e melhorar a experiência do cliente em e-commerce.
