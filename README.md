@@ -1,6 +1,6 @@
 <h1 align="center">Olá, sou Andrielly!</h1>
 <p align="center">
-  <img align="center" width="150" src="https://via.placeholder.com/150" alt="Andrielly's Photo">
+  <img align="center" width="150" src="https://github.com/andriellymoraespereira/andriellymoraespereira/raw/main/foto.png" alt="Andrielly's Photo">
 </p>
 
 <p align="center">
@@ -56,4 +56,5 @@ Sinta-se à vontade para se conectar comigo através das redes sociais:
 </div>
 
 ![GitHub Contributions](https://github.com/andriellymoraespereira/andriellymoraespereira/blob/output/github-contribution-grid-snake.svg)
+
 
